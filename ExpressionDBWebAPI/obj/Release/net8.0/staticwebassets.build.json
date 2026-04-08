@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mftKJd0LHv32KvHRJXIeb2VNBebGCR53X/8ryDGyMqM=",
+  "Hash": "NRkLTVwbHSFJce8uVWtnfwI5JCJ0T3WEmIz7QngFPdo=",
   "Source": "ExpressionDBWebAPI",
   "BasePath": "_content/ExpressionDBWebAPI",
   "Mode": "Default",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "C:\\Users\\G2507\\.nuget\\packages\\toolbelt.blazor.viewtransition\\1.0.3\\staticwebassets\\script.min.js"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBWebAPI\\obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBWebAPI\\obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "SourceId": "ExpressionDBWebAPI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBWebAPI\\obj\\Release\\net8.0\\jsmodules\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBWebAPI\\obj\\Release\\net8.0\\jsmodules\\",
       "BasePath": "_content/ExpressionDBWebAPI",
       "RelativePath": "ExpressionDBWebAPI.modules.json",
       "AssetKind": "Build",
@@ -265,7 +265,7 @@
     },
     {
       "Route": "ExpressionDBWebAPI.modules.json",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBWebAPI\\obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBWebAPI\\obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {

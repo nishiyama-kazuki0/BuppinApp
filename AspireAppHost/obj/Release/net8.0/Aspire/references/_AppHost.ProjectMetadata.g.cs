@@ -8,5 +8,5 @@ namespace Projects;
 public class AspireAppHost
 {
     private AspireAppHost() { }
-    public static string ProjectPath => """C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\AspireAppHost""";
+    public static string ProjectPath => """C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireAppHost""";
 }

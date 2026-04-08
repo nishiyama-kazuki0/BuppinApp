@@ -74,3 +74,16 @@ C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\B
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\AspireServiceDefaults\obj\Release\net8.0\refint\AspireServiceDefaults.dll
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.pdb
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\AspireServiceDefaults\obj\Release\net8.0\ref\AspireServiceDefaults.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\bin\Release\net8.0\AspireServiceDefaults.deps.json
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\bin\Release\net8.0\AspireServiceDefaults.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\bin\Release\net8.0\AspireServiceDefaults.pdb
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.AssemblyInfo.cs
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.sourcelink.json
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\refint\AspireServiceDefaults.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.pdb
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\AspireServiceDefaults\obj\Release\net8.0\ref\AspireServiceDefaults.dll

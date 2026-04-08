@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e+X3TUmQ0cZHWcsdf7NRiJnuqG3HH9w9UFjBLVOd4HU=",
+  "Hash": "DQBngMX4TsyzEwz6zQAgHa9J+R0cSHdTpBUPBg8cYZs=",
   "Source": "ExpressionDBBlazorShared",
   "BasePath": "_content/ExpressionDBBlazorShared",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ExpressionDBBlazorShared\\wwwroot",
       "Source": "ExpressionDBBlazorShared",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "Pattern": "**"
     }
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "C:\\Users\\G2507\\.nuget\\packages\\toolbelt.blazor.viewtransition\\1.0.3\\staticwebassets\\script.min.js"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\obj\\Release\\net8.0\\jsmodules\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\obj\\Release\\net8.0\\jsmodules\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "ExpressionDBBlazorShared.modules.json",
       "AssetKind": "Build",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/mat_app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\css\\mat_app.css"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "css/radzen_override#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\css\\radzen_override.css"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\favicon.ico",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\download.js",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\download.js",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "js/download#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\js\\download.js"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\FileDownload.js",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\FileDownload.js",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "js/FileDownload#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\js\\FileDownload.js"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\keydown-script.js",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\keydown-script.js",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "js/keydown-script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\js\\keydown-script.js"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "js/quagga-script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\js\\quagga-script.js"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "js/scan-script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scan-script.js"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo.jpg",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo.jpg",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "WMS_logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\WMS_logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo_home.jpg",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo_home.jpg",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "WMS_logo_home#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\WMS_logo_home.jpg"
     },
     {
-      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\新しいフォルダー\\Component1.razor",
+      "Identity": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\新しいフォルダー\\Component1.razor",
       "SourceId": "ExpressionDBBlazorShared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\",
       "BasePath": "_content/ExpressionDBBlazorShared",
       "RelativePath": "新しいフォルダー/Component1#[.{fingerprint}]?.razor",
       "AssetKind": "All",
@@ -2902,7 +2902,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2939,7 +2939,7 @@
     },
     {
       "Route": "css/app.iiwedjhqd7.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2984,7 +2984,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3029,7 +3029,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3066,7 +3066,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3111,7 +3111,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3148,7 +3148,7 @@
     },
     {
       "Route": "css/mat_app.110tlkjx9r.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3193,7 +3193,7 @@
     },
     {
       "Route": "css/mat_app.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3230,7 +3230,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3275,7 +3275,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3312,7 +3312,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0ufsf3tm4c.ttf",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3357,7 +3357,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3402,7 +3402,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.eot",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3439,7 +3439,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3484,7 +3484,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3521,7 +3521,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3566,7 +3566,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3603,7 +3603,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3640,7 +3640,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3685,7 +3685,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.woff",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3722,7 +3722,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3759,7 +3759,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3804,7 +3804,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3841,7 +3841,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3886,7 +3886,7 @@
     },
     {
       "Route": "css/open-iconic/README.md",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3923,7 +3923,7 @@
     },
     {
       "Route": "css/open-iconic/README.psxpu4y82n.md",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3968,7 +3968,7 @@
     },
     {
       "Route": "css/radzen_override.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4005,7 +4005,7 @@
     },
     {
       "Route": "css/radzen_override.h712bhej1f.css",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4050,7 +4050,7 @@
     },
     {
       "Route": "ExpressionDBBlazorShared.modules.json",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\obj\\Release\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4087,7 +4087,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4132,7 +4132,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4169,7 +4169,7 @@
     },
     {
       "Route": "js/download.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\download.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\download.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4206,7 +4206,7 @@
     },
     {
       "Route": "js/download.z3h5p4i7uh.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\download.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\download.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4251,7 +4251,7 @@
     },
     {
       "Route": "js/FileDownload.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\FileDownload.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\FileDownload.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4288,7 +4288,7 @@
     },
     {
       "Route": "js/FileDownload.xnrhuy43jt.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\FileDownload.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\FileDownload.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4333,7 +4333,7 @@
     },
     {
       "Route": "js/keydown-script.c5q7jzr2gx.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\keydown-script.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\keydown-script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4378,7 +4378,7 @@
     },
     {
       "Route": "js/keydown-script.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\keydown-script.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\keydown-script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4415,7 +4415,7 @@
     },
     {
       "Route": "js/quagga-script.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4452,7 +4452,7 @@
     },
     {
       "Route": "js/quagga-script.m3tjyro0s5.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4497,7 +4497,7 @@
     },
     {
       "Route": "js/scan-script.hubnvqf4o1.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4542,7 +4542,7 @@
     },
     {
       "Route": "js/scan-script.js",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4579,7 +4579,7 @@
     },
     {
       "Route": "WMS_logo.jpg",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo.jpg",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4616,7 +4616,7 @@
     },
     {
       "Route": "WMS_logo.uyay8k1m5s.jpg",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo.jpg",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4661,7 +4661,7 @@
     },
     {
       "Route": "WMS_logo_home.fh93ml5r5h.jpg",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo_home.jpg",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo_home.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4706,7 +4706,7 @@
     },
     {
       "Route": "WMS_logo_home.jpg",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo_home.jpg",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\WMS_logo_home.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4743,7 +4743,7 @@
     },
     {
       "Route": "新しいフォルダー/Component1.razor",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\新しいフォルダー\\Component1.razor",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\新しいフォルダー\\Component1.razor",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4780,7 +4780,7 @@
     },
     {
       "Route": "新しいフォルダー/Component1.z5lwn4k879.razor",
-      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\ExpressionDBBlazorShared\\wwwroot\\新しいフォルダー\\Component1.razor",
+      "AssetFile": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\ExpressionDBBlazorShared\\wwwroot\\新しいフォルダー\\Component1.razor",
       "Selectors": [],
       "ResponseHeaders": [
         {

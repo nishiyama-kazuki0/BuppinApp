@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WepApp\ExpressionDBCycleProcessApp\obj\Release\net9.0-windows7.0\
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\BuppinApp\ExpressionDBCycleProcessApp\obj\Release\net9.0-windows7.0\
 ExpressionDBCycleProcessApp
 none
 false
@@ -13,8 +13,8 @@ TRACE;RELEASE;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_
 15-619513830
 
 32-1944565357
-2551324262747
+2551250173091
 Views\MainWindow.xaml;Views\UcCBit.xaml;Views\UcCDword.xaml;Views\UcCommunicationArea.xaml;Views\UcCommunicationArea2.xaml;Views\UcCWord.xaml;Views\UcJudgeItem.xaml;Views\UcMain.xaml;Views\UcSequenceActions.xaml;Views\UcSequenceActionTree.xaml;Views\UcSequenceActionTree2.xaml;Views\UcSequenceStep.xaml;Views\UcSequenceStepHistories.xaml;Views\UcSequenceSteps.xaml;Views\UcStartSequence.xaml;
 
-False
+True
 

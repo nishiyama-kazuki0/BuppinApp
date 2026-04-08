@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "4KpLke0l",
+  "version": "Pq3NbpPp",
   "assets": [
     {
       "hash": "sha256-v/EqpoqpDgYGkKY4Lrfh74X2XQNNuJqwDYctkUBesYw=",
@@ -310,19 +310,19 @@ self.assetsManifest = {
       "url": "_framework/ExcelNumberFormat.wasm"
     },
     {
-      "hash": "sha256-petPot5j1l95m5AaLNzB2FKAZ6i1BGTTPRzfc+X7FpI=",
+      "hash": "sha256-tjN+nqflL/++Cqkdo/W9SNbUUMlZk1hk4cUnF06pVYw=",
       "url": "_framework/ExpressionDBBlazorShared.pdb"
     },
     {
-      "hash": "sha256-LpmUC8JH0iMK9444QKVC4KzcAGDYsbCq1K6ampjgSFg=",
+      "hash": "sha256-YdJdNYeY2LOJWC5pQa+N+Dp/EYCQF/JCiyqFKOZnzUc=",
       "url": "_framework/ExpressionDBBlazorShared.wasm"
     },
     {
-      "hash": "sha256-wHyv2kd98WZQ/xh5PQg+tUk0UOmODcFZr7/zENnuAiI=",
+      "hash": "sha256-2GcPLBeZV29Iqbp3CbMGIsH/lQVLstTQcI1Verq4Pso=",
       "url": "_framework/ExpressionDBBlazorWasmApp.pdb"
     },
     {
-      "hash": "sha256-H9ZUmUWvA9qmU0xNxIm4bajy8gOt9iMKtaJ/OgftLeg=",
+      "hash": "sha256-962s90ykK4HflUXLDbNnbUeggACVPMQkiQ4FVJ2mlNg=",
       "url": "_framework/ExpressionDBBlazorWasmApp.wasm"
     },
     {
@@ -526,11 +526,11 @@ self.assetsManifest = {
       "url": "_framework/Radzen.Blazor.wasm"
     },
     {
-      "hash": "sha256-77YeFwyF2nwCfP8zWQbslghSte3HI7JIQoYKgbM3KGU=",
+      "hash": "sha256-Ia6PXrbztaCOTnPDOcjF9NmmwBKoKTct99V16Cz8ntM=",
       "url": "_framework/SharedModels.pdb"
     },
     {
-      "hash": "sha256-EY8dFGFevNGY8O+I7eq9TKMHEA6W4RGiXoaRJx8Sgww=",
+      "hash": "sha256-/N2RsN+W2qJE2T6rUq5WWq7RvEF3XMaORVNNrfWFF38=",
       "url": "_framework/SharedModels.wasm"
     },
     {
@@ -1210,7 +1210,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-lFaCV3OM4GpI7tgHVVgUaUbqwta0YNQykxpk7GTcums=",
+      "hash": "sha256-3e/k53gwP9H59oAHs0lq8AWDvlzxmIoYP1F/1VRe3LU=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -1274,7 +1274,7 @@ self.assetsManifest = {
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-yJ1fxo/iHNsx8Pxv+E0rWh/NFIBOdDiQaX5ubR2bGIU=",
+      "hash": "sha256-knntQSQ72hd4FGzQkayGwSIB3EVWNMrv7SPjc/9pEsM=",
       "url": "appsettings.json"
     },
     {

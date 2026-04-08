@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\",
+  "WorkspaceRootPath": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-wepapp\\expressiondbblazorwasmapp\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppinapp\\expressiondbblazorwasmapp\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|solutionrelative:expressiondbblazorwasmapp\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE77D4A8-A79B-413D-B47F-CD3CCB3F13DD}|ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-wepapp\\expressiondbwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DE77D4A8-A79B-413D-B47F-CD3CCB3F13DD}|ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppinapp\\expressiondbwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DE77D4A8-A79B-413D-B47F-CD3CCB3F13DD}|ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj|solutionrelative:expressiondbwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A591BB41-394D-490C-B04A-EAEC5BE170B7}|ExpressionDBCycleProcessApp\\ExpressionDBCycleProcessApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-wepapp\\expressiondbcycleprocessapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A591BB41-394D-490C-B04A-EAEC5BE170B7}|ExpressionDBCycleProcessApp\\ExpressionDBCycleProcessApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppinapp\\expressiondbcycleprocessapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A591BB41-394D-490C-B04A-EAEC5BE170B7}|ExpressionDBCycleProcessApp\\ExpressionDBCycleProcessApp.csproj|solutionrelative:expressiondbcycleprocessapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,7 +21,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBWebAPI\\bin\\Release\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-wepapp\\expressiondbblazorshared\\iplatformnameprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppinapp\\expressiondbblazorshared\\iplatformnameprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\iplatformnameprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,22 +64,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\ExpressionDBWebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\ExpressionDBWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ExpressionDBWebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\ExpressionDBWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\ExpressionDBWebAPI\\appsettings.json",
               "RelativeToolTip": "ExpressionDBWebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-06T10:12:18.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T10:12:18.457Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
               "RelativeDocumentMoniker": "ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
-              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
               "RelativeToolTip": "ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -102,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IPlatformNameProvider.cs",
-              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\ExpressionDBBlazorShared\\IPlatformNameProvider.cs",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\ExpressionDBBlazorShared\\IPlatformNameProvider.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\IPlatformNameProvider.cs",
-              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\ExpressionDBBlazorShared\\IPlatformNameProvider.cs",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\ExpressionDBBlazorShared\\IPlatformNameProvider.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\IPlatformNameProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,14 +125,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\ExpressionDBCycleProcessApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\ExpressionDBCycleProcessApp\\Program.cs",
               "RelativeDocumentMoniker": "ExpressionDBCycleProcessApp\\Program.cs",
-              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WepApp\\ExpressionDBCycleProcessApp\\Program.cs",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\BuppinApp\\ExpressionDBCycleProcessApp\\Program.cs",
               "RelativeToolTip": "ExpressionDBCycleProcessApp\\Program.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAiwEkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T10:03:49.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T10:03:49.808Z"
             }
           ]
         }

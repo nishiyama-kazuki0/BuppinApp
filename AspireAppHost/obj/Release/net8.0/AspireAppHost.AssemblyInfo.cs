@@ -18,13 +18,13 @@ using System.Reflection;
     "xt\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\G2507\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\8.2.1\\tools\\e" +
     "xt\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WepApp\\AspireAppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\BuppinApp\\AspireAppHost")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\G2507\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\8.2.1\\tools\\Aspire.Da" +
     "shboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireAppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccc91a200182cd8592d561598c699bc6328b38fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35e7da51b3f3828111c381cbcbba689c0abf2594")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireAppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireAppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
